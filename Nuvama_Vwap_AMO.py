@@ -607,7 +607,7 @@ def main():
     # ============================================
     API_KEY = "D0G4NYboa7D6fQ"              # Your Nuvama API Key (Vendor ID)
     SECRET_KEY = "g0ZM4h#3mjZ!5@Q8"         # Your Nuvama Secret Key (Password)
-    REQUEST_ID = "666163d2de299189"         # Request ID from login URL redirect
+    REQUEST_ID = "646239d6117ac55f"         # Request ID from login URL redirect
     CLIENT_ID = "YOUR_CLIENT_ID_HERE"       # Your Client ID (if needed)
     
     # ============================================
